@@ -24,7 +24,7 @@ Instrutor da maratona: [Mayk Brito](https://www.youtube.com/c/MaykBrito/featured
 - Estilização moderna com css3
 
 ### Javascript
-- Uso de obejto
+- Uso de objeto
 - Uso de função
 - Manipulação da DOM
 - Integração com páginas HTML
