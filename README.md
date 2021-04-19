@@ -28,6 +28,7 @@ Instrutor da maratona: [Mayk Brito](https://www.youtube.com/c/MaykBrito/featured
 - Uso de objeto
 - Uso de função
 - Manipulação da DOM
+- Armazenamento no localStorage
 
 ## 🖥️ Layout
 ![](/assets/dev.finances.gif)
