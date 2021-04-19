@@ -1,5 +1,5 @@
 # 👨‍💻💰 Devfinances
-Desenvolvido na [Maratona Discover](https://maratonadiscover.rocketseat.com.br/inscricao), evento promovido pela [Rocketseat](https://rocketseat.com.br/).
+Desenvolvido na [Maratona Discover 1](https://maratonadiscover.rocketseat.com.br/inscricao), evento promovido pela [Rocketseat](https://rocketseat.com.br/).
 O objetivo da aplicação é auxiliar no controle das finanças do mês adiconando lucros e despesas recorrentes.
 Instrutor da maratona: [Mayk Brito](https://www.youtube.com/c/MaykBrito/featured).
 
@@ -27,7 +27,6 @@ Instrutor da maratona: [Mayk Brito](https://www.youtube.com/c/MaykBrito/featured
 - Uso de objeto
 - Uso de função
 - Manipulação da DOM
-- Integração com páginas HTML
 
 ## 🖥️ Layouts da aplicação
 ![](/assets/print1.png)
