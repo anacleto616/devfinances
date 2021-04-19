@@ -1,6 +1,6 @@
 # 👨‍💻💰 Devfinances
 Desenvolvido na [Maratona Discover 1](https://maratonadiscover.rocketseat.com.br/inscricao), evento promovido pela [Rocketseat](https://rocketseat.com.br/).
-O objetivo da aplicação é auxiliar no controle das finanças do mês adiconando lucros e despesas recorrentes.
+O objetivo da aplicação é auxiliar no controle das finanças do mês adicionando lucros e despesas recorrentes.
 
 ## 💻 Funcionalidades
 - Adicionar despesas
