@@ -28,7 +28,5 @@ Instrutor da maratona: [Mayk Brito](https://www.youtube.com/c/MaykBrito/featured
 - Uso de função
 - Manipulação da DOM
 
-## 🖥️ Layouts da aplicação
-![](/assets/print1.png)
-![](/assets/print2.png)
-![](/assets/print3.png)
+## 🖥️ Layout
+![](/assets/dev.finances.gif)
