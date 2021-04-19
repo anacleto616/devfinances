@@ -22,6 +22,7 @@ Instrutor da maratona: [Mayk Brito](https://www.youtube.com/c/MaykBrito/featured
 ### CSS
 - Uso de classe e id
 - Estilização moderna com css3
+- Uso de variáveis
 
 ### Javascript
 - Uso de objeto
